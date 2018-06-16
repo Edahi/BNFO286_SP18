@@ -1,0 +1,15 @@
+INFO: Mon Jun  4 22:46:46 2018
+INFO: Working directory: /Users/eporetsky/Dropbox/bnfo final project/data/WGCNA_new_tissue_atlas
+INFO: Saving blocks for each iteration? TRUE
+INFO: Merging final modules if cutHeight <= 0.05
+INFO: Allowing WGCNA Threads? FALSE
+INFO: Running WGCNA with the following params:
+INFO: {'minModuleSize': 20, 'power': 6, 'minCoreKME': 0.8, 'minKMEtoStay': 0.8, 'reassignThreshold': 0.05, 'saveTOMs': False, 'networkType': 'signed', 'numericLabels': True}
+INFO: Loaded file: new_tissue_atlas.tsv
+INFO: 37 Samples
+INFO: 19597 Genes
+WARNING: /Library/Python/2.7/site-packages/rpy2/rinterface/__init__.py:185: RRuntimeWarning: Error: Interrupted
+
+  warnings.warn(x, RRuntimeWarning)
+
+INFO: Tue Jun  5 00:38:30 2018
